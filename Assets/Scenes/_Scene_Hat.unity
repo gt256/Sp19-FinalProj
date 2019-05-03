@@ -479,12 +479,12 @@ MonoBehaviour:
     guaranteedItemDrop: {fileID: 0}
     overrideTileNum: -1
   - tileNum: 227
-    swapPrefab: {fileID: 1000010950105738, guid: 002d3cd572dd2425c9aeacc3340afccb,
+    swapPrefab: {fileID: 6591773474309396616, guid: 30ef17f4dd4d3434a96794a2a2d217c0,
       type: 3}
     guaranteedItemDrop: {fileID: 0}
     overrideTileNum: -1
   - tileNum: 228
-    swapPrefab: {fileID: 1000010950105738, guid: 002d3cd572dd2425c9aeacc3340afccb,
+    swapPrefab: {fileID: 6591773474309396616, guid: 30ef17f4dd4d3434a96794a2a2d217c0,
       type: 3}
     guaranteedItemDrop: {fileID: 0}
     overrideTileNum: 96
