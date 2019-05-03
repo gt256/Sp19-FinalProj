@@ -90,6 +90,7 @@ public class Spiker : Enemy
 
                 if ((dray.transform.position - transform.position).magnitude < radius + drayColld.radius)
                 {
+                    //commented out because this method didn't work used damageEffect script instead
                     //dray.TakeDamage(dEf, transform.position);
                 }
                 break;
